@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version='1.0' encoding='utf-8' ?>  <tocdata>  <book name=\"Bogalusa City School Board\" >  <chunk name=\"Bogalusa City School Board\" ref=\"whtdata1.xml\" />  </book>    </tocdata>";
